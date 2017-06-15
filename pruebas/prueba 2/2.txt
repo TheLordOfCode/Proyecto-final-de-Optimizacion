@@ -1,0 +1,5 @@
+4
+3
+Cali 3 3
+Buga 2 0
+tulua 0 3

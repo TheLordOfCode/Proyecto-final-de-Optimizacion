@@ -1,0 +1,7 @@
+5
+5
+tulua 3 2
+Buga 1 1
+palmira 4 3
+Cali 0 4
+pereira 4 4

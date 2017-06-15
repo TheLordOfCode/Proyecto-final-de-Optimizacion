@@ -1,0 +1,9 @@
+10
+7
+Palmira 0 0
+Cali 6 2
+Buga 4 4
+Tulua 1 8
+RioFrio 9 9 
+SanPedro 8 6
+Buenaventura 5 4
